@@ -1,0 +1,6 @@
+[submodule "open_kpa"]
+	path = open_kpa
+	url = https://github.com/kempline/open_kpa.git
+[submodule "open_fbv"]
+	path = open_fbv
+	url = https://github.com/kempline/open_fbv.git
